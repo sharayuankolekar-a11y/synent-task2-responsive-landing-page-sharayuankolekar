@@ -13,5 +13,5 @@ SAVOR is a luxury personal chef booking service concept that brings restaurant-q
 - CSS3 (CSS Custom Properties, Flexbox, CSS Grid)
 - Vanilla JavaScript (Used solely for mobile navigation toggling)
 
-## Live Demo of a Landing Page:
+## Live Demo of the Landing Page:
 https://responsive-sooty.vercel.app/
